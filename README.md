@@ -1,1 +1,1 @@
-# brain-tumor-dtection-and-segementation
+# brain-tumor-dtection-and-classification
